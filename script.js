@@ -6,7 +6,7 @@ c.width = 649; c.height = 548; //set this always according to canvas BG pic
 var cs = 50;
 
 var img = document.createElement("img");
-img.src = "media/checkerboard2.jpg";
+img.src = "media/wood_bg.jpg";
 
 var snake_skin = document.createElement("img");
 snake_skin.src = "media/snake_skin4.png";
@@ -15,10 +15,10 @@ var snake_blood = document.createElement("img");
 snake_blood.src = "media/blood.png";
 
 var happy_rat = document.createElement("img");
-happy_rat.src = "media/happy_rat2.jpg";
+happy_rat.src = "media/happy_rat2_t.png";
 
 var food_rat = document.createElement("img");
-food_rat.src = "media/food_rat2.jpg";
+food_rat.src = "media/food_rat2_t.png";
 
 var pat_head_left = document.createElement("img");
 pat_head_left.src = "media/snake_head2_left.png";
